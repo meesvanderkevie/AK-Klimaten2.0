@@ -1,7 +1,7 @@
 <script>
     import KlimatenLijst from "@/components/KlimatenLijst.vue";
 
-    export default {
+    export default{
         components: {
             KlimatenLijst
         }
